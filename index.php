@@ -17,7 +17,7 @@
     <div class="row">
         <div class="col-md-12">
             <div class="jumbotron mt-4">
-                <h4 id="jumbo-header">Welcome to the BlogApp</h4>
+                <h4 id="jumbo-header">Welcome to my Blogapp</h4>
             </div>
         </div>
     </div>
